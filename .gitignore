@@ -1,0 +1,36 @@
+# User-specific files
+*.rsuser
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# User-specific folders
+.vscode/
+.vs/
+
+# Build folders
+[Bb]in/
+[Oo]bj/
+
+# Packages folder
+packages/
+*.nupkg
+*.snupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Visual Studio working folder
+.vs/
+
+# Rider project settings
+.idea/
+
+# Logs
+*.log
+
+# Transient files
+*.pid
+*.cache
+*.tmp
